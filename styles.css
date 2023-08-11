@@ -1,0 +1,18 @@
+.container{
+    border: 1px solid white;
+    width: 1000px;
+   
+}
+.image-container {
+    display: flex;
+    justify-content: center; /* Horizontal centering */
+    align-items: center; /* Vertical centering */
+   
+}
+.video-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
